@@ -1,0 +1,8 @@
+[user]
+	email = coding3392@gmail.com
+	name = rit
+[push]
+	default = matching
+[core]
+	editor = nano
+
